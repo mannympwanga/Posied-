@@ -1,0 +1,4 @@
+Project Details, 5566, Manny House, House, 12 groenberg, 25 May 2021, 565, 25578.650390625, 05-06-2021
+Architect Details, sam, 065478955, sam@poised.co.za, John Street
+Contractor Details, Daniel, 06588956, daine;@contractor.co.za, AMy road
+Customer Details, Davied, 074562154, davied@gmail.com, Jones Road
